@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 4 items about me
 
 I love Git 
